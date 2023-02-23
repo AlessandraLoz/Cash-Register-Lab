@@ -37,9 +37,9 @@ This software was made by Alessandra Lozano using <a href="https://visualstudio.
 
 ## You may also like...
 
-- [Converting Roman Numerals](https://github.com/AlessandraLoz/Converting-Roman-Numerals-Lab) - A collection of programs that uses integer to double division to convert number to Roman Numerals
+- [Converting Roman Numerals](https://github.com/AlessandraLoz/Converting-Roman-Numerals-Lab) - Increased use of boolean logic and implementing functions functions
 
-- [User-Input-Validation](https://github.com/AlessandraLoz/User-Input-Validation) - Program using integer to double division in order to account for prime numbers
+- [User-Input-Validation](https://github.com/AlessandraLoz/User-Input-Validation) - Using boolean and algebraic logic in order to properly track multiple variables at once
 
 ## License
 
